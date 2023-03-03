@@ -1,0 +1,6 @@
+D:\Projects\LTMK65\SocketServer\bin\Debug\SocketServer.exe.config
+D:\Projects\LTMK65\SocketServer\bin\Debug\SocketServer.exe
+D:\Projects\LTMK65\SocketServer\bin\Debug\SocketServer.pdb
+D:\Projects\LTMK65\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+D:\Projects\LTMK65\SocketServer\obj\Debug\SocketServer.exe
+D:\Projects\LTMK65\SocketServer\obj\Debug\SocketServer.pdb
