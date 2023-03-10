@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient", "..\SocketClient\SocketClient.csproj", "{1C2C2AE4-042E-4B6F-B192-351E7B47D38F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServer", "..\UDPServer\UDPServer.csproj", "{5A164249-C97C-4514-8A34-97E2D2AB23B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClient", "..\UDPClient\UDPClient.csproj", "{F5B4DA47-D022-46E3-9A74-052A006410C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{1C2C2AE4-042E-4B6F-B192-351E7B47D38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C2C2AE4-042E-4B6F-B192-351E7B47D38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C2C2AE4-042E-4B6F-B192-351E7B47D38F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A164249-C97C-4514-8A34-97E2D2AB23B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A164249-C97C-4514-8A34-97E2D2AB23B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A164249-C97C-4514-8A34-97E2D2AB23B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A164249-C97C-4514-8A34-97E2D2AB23B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B4DA47-D022-46E3-9A74-052A006410C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B4DA47-D022-46E3-9A74-052A006410C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B4DA47-D022-46E3-9A74-052A006410C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B4DA47-D022-46E3-9A74-052A006410C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

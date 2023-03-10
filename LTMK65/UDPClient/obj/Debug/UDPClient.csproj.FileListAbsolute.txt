@@ -1,0 +1,10 @@
+D:\Projects\LTMK65\UDPClient\bin\Debug\UDPClient.exe.config
+D:\Projects\LTMK65\UDPClient\bin\Debug\UDPClient.exe
+D:\Projects\LTMK65\UDPClient\bin\Debug\UDPClient.pdb
+D:\Projects\LTMK65\UDPClient\obj\Debug\UDPClient.csproj.AssemblyReference.cache
+D:\Projects\LTMK65\UDPClient\obj\Debug\UDPClient.Form1.resources
+D:\Projects\LTMK65\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+D:\Projects\LTMK65\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.cache
+D:\Projects\LTMK65\UDPClient\obj\Debug\UDPClient.csproj.CoreCompileInputs.cache
+D:\Projects\LTMK65\UDPClient\obj\Debug\UDPClient.exe
+D:\Projects\LTMK65\UDPClient\obj\Debug\UDPClient.pdb
